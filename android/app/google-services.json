@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491169426239",
+    "project_id": "loginpage-e8503",
+    "storage_bucket": "loginpage-e8503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491169426239:android:c9c26e44e1d5ed8fed818a",
+        "android_client_info": {
+          "package_name": "com.loginpage.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jhs3B3BFaI7w7FBIq5i5K42h3SuNtfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
